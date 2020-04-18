@@ -14,7 +14,7 @@ picture: assets/images/avatar.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/file/d/1IUm50uQkiPgATqtjRtF46_0V7d7D9NWO/view?usp=sharing
+resume-url: assets/ejresume.pdf
 
 url: https://ekanshjha.github.io
 # your url: https://USERNAME.github.io
